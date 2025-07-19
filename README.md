@@ -1,6 +1,6 @@
 Stepts for suricata install on kali
 
-Update Kali Linux Update your system to make sure everything is up to date: sudo apt update
+Update Kali Redmi Update your system to make sure everything is up to date: sudo apt update
 sudo apt upgrade -y
 
 Install Suricata Install Suricata with the following command: sudo apt install suricata -y
